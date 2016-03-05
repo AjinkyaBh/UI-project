@@ -1,0 +1,41 @@
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+          width: 100%;
+          margin: auto;
+ }
+
+#myCarousel{
+         height:auto;;
+        margin: auto;
+}
+
+#carouselRow{
+	margin-top:70px;
+}
+
+#features{
+    margin-top: 20px;
+}
+
+#main{
+           background-color: #fff;
+}
+
+#serachInput{
+
+}
+
+body{
+  margin: 0;
+  background: url("../images/bg.jpg") repeat;
+
+}
+
+.navbar-default{
+   background-color: #960000;
+}
+
+#panelLogin{
+  margin-top: 100px;
+  width: 500px;
+}
